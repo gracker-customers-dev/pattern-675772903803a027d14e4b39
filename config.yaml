@@ -1,0 +1,58 @@
+projectName: Cybersecurity Marketing
+jsonFilePath: ./input.json
+baseUrl: https://gracker.ai
+portalHeading: 'GrackerAI: Empowering Your Cybersecurity Marketing'
+portalDescription: >-
+  GrackerAI boosts cybersecurity SaaS marketing with targeted traffic and
+  quality leads, using AI-driven content creation and industry-specific
+  programmatic SEO.
+portalTitle: Transform Your Cybersecurity Marketing with GrackerAI
+searchPlaceholder: Search for cybersecurity insights...
+useAlphabetsCategory: true
+homeLink: https://gracker.ai/
+logoLink: https://gracker.ai/
+ctaText: Get Started
+aboutLink: https://gracker.ai/about
+productsLink: https://gracker.ai/products
+logoImgUrl: https://gracker.ai/logo.png
+ctaLink: https://gracker.ai/get-started
+copyrightText: © 2023 GrackerAI. All rights reserved.
+faviconUrl: https://gracker.ai/favicon.ico
+googleTagManagerId: GTM-XXXXXX
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/grackerai
+  - platform: LinkedIn
+    url: https://linkedin.com/company/grackerai
+  - platform: Facebook
+    url: https://facebook.com/grackerai
+theme:
+  primaryColor: '#4A90E2'
+  secondaryColor: '#D9E8F2'
+  backgroundColor: '#FFFFFF'
+  textColor: '#333333'
+  accentColor: '#F5A623'
+fonts:
+  - family: Roboto
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Open Sans
+    weights:
+      - 500
+      - 600
+      - 700
